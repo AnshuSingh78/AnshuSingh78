@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnshuSingh78?tab=repositories](https://github.com/AnshuSingh78?tab=repositories)
 
-- 💬 Ask me about **Python,ChatGpt, Prompt Engineering,RPA,Selenium,Java**
+- 💬 Ask me about **Python,ChatGpt,Prompt Engineering,RPA,Selenium,Java**
 
 - 📫 How to reach me **kumari.anshu191190@gmail.com**
 
